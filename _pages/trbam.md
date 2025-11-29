@@ -1,12 +1,12 @@
 ---
-title: "TRB 2026"
+title: "TRBAM 2026"
 permalink: /trbam/
 author_profile: true
 redirect_from: 
   - /trbam.html
 ---
 
-# TRBAM 2026
+# 
 
 | Date | Paper Title | Models |
 | -------- | -------- | -------- |
