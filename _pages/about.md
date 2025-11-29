@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- ## Welcome
 🚀 **Traffic Safety Officer | Transportation Safety Specialist | AI & Data Science in Transportation | Crash Analysis & Machine Learning**   -->
-## **About Me Ahmed hossain**  
+## **About Me**  
 I am a **Transportation Safety Specialist** with extensive experience in **crash data analysis, predictive modeling, and roadway safety improvements**. Currently, I serve as a **Traffic Safety Officer at the Arizona Department of Transportation (ADOT)**, where I work on implementing data-driven solutions to minimize traffic-related incidents and enhance road safety.  
 
 Previously, I worked as a **Post-Doctoral Researcher at the Artificial Intelligence in Transportation (AIT) Lab, Texas State University**, where I focused on **leveraging AI, machine learning, and hybrid statistical approaches** to analyze crash patterns and inform transportation policies.  
