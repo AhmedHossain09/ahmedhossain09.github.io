@@ -22,7 +22,8 @@ main:
     
   - title: "Presentations & Awards"
     url: /presentations-awards/
+  
+  - title: "Blog"
+    url: /blog/
 
-  - title: "Hello Page"
-    url: /hello/
         
