@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Load the TSV file correctly
-file_path = "https://raw.githubusercontent.com/Xatta-Trone/google-scholar-scrapper/refs/heads/main/publications-U9tD0ywAAAAJ.tsv"
+file_path = "https://raw.githubusercontent.com/ahmedhossain09/google-scholar-scrapper/refs/heads/main/publications-U9tD0ywAAAAJ.tsv"
 
 # Use the correct separator '\t' and handle errors gracefully
 publications = pd.read_csv(

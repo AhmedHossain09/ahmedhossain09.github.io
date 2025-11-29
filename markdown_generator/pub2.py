@@ -47,7 +47,7 @@ def html_escape(text):
 # --- Load JSON Data from GitHub ---
 
 
-url = "https://raw.githubusercontent.com/Xatta-Trone/google-scholar-scrapper/refs/heads/main/scholar-data-U9tD0ywAAAAJ.json"
+url = "https://raw.githubusercontent.com/ahmedhossain09/google-scholar-scrapper/refs/heads/main/scholar-data-U9tD0ywAAAAJ.json"
 response = requests.get(url)
 json_data = response.json()
 

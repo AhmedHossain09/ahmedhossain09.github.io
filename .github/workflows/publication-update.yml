@@ -31,8 +31,8 @@ jobs:
       
     - name: Commit and push if changes
       run: |
-        git config --global user.name 'xatta-trone'
-        git config --global user.email '22274105+actions-user@users.noreply.github.com'
+        git config --global user.name 'ahmedhossain09'
+        git config --global user.email '88017722+actions-user@users.noreply.github.com'
         git add _publications/*
         git commit -m "Auto-update publications" || exit 0
         git push
